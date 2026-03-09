@@ -1,0 +1,52 @@
+[
+  {
+    "id": "session-1",
+    "sessionId": "TEST-20260306102222",
+    "subject": "Test Session - QR Generation",
+    "department": "Engineering",
+    "year": "2024",
+    "teacher": "test@example.com",
+    "createdAt": "2026-03-06T10:22:24.778104",
+    "expiresAt": "2026-03-06T10:27:22.709763"
+  },
+  {
+    "id": "session-2",
+    "sessionId": "TEST-20260306102431",
+    "subject": "Test Session - QR Generation",
+    "department": "Engineering",
+    "year": "2024",
+    "teacher": "test@example.com",
+    "createdAt": "2026-03-06T10:24:33.948488",
+    "expiresAt": "2026-03-06T10:29:31.887148"
+  },
+  {
+    "id": "session-3",
+    "sessionId": "TEST-20260306102505",
+    "subject": "Test Session - QR Generation",
+    "department": "Engineering",
+    "year": "2024",
+    "teacher": "test@example.com",
+    "createdAt": "2026-03-06T10:25:08.053707",
+    "expiresAt": "2026-03-06T10:30:05.993087"
+  },
+  {
+    "id": "session-4",
+    "sessionId": "SES-MMEKZZMIDWJV",
+    "subject": "JAVA",
+    "department": "CSE",
+    "year": "1st",
+    "teacher": "teacher-1",
+    "createdAt": "2026-03-06T13:06:59.991264",
+    "expiresAt": "2026-03-06T07:41:59.418Z"
+  },
+  {
+    "id": "session-5",
+    "sessionId": "SES-MMEKZZMJ9TQR",
+    "subject": "JAVA",
+    "department": "CSE",
+    "year": "1st",
+    "teacher": "teacher-1",
+    "createdAt": "2026-03-06T13:07:00.056735",
+    "expiresAt": "2026-03-06T07:41:59.419Z"
+  }
+]
